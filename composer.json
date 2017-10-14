@@ -1,0 +1,30 @@
+{
+  "name": "apitte/fullstack",
+  "description": "Apitte meta package with all features",
+  "keywords": ["api", "rest", "apitte", "fullstack", "meta"],
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/apitte/fullstack",
+  "authors": [
+    {
+      "name": "Milan Felix Šulc",
+      "homepage": "https://f3l1x.io"
+    }
+  ],
+  "require": {
+    "php": ">= 5.6",
+    "apitte/core": "~0.1.0",
+    "apitte/middlewares": "~0.1.0",
+    "apitte/negotiation": "~0.1.0",
+    "apitte/debug": "~0.1.0",
+    "apitte/mapping": "~0.1.0",
+    "apitte/openapi": "~0.1.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  }
+}
