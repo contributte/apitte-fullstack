@@ -17,7 +17,6 @@
     "apitte/middlewares": "~0.1.0",
     "apitte/negotiation": "~0.1.0",
     "apitte/debug": "~0.1.0",
-    "apitte/mapping": "~0.1.0",
     "apitte/openapi": "~0.1.0"
   },
   "minimum-stability": "dev",
