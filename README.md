@@ -1,8 +1,6 @@
-# Apitte\Fullstack
+# Apitte Fullstack
 
-:wrench: Apitte meta package with all features.
-
------
+Apitte meta package with all features.
 
 [![Downloads this Month](https://img.shields.io/packagist/dm/apitte/fullstack.svg?style=flat-square)](https://packagist.org/packages/apitte/fullstack)
 [![Downloads total](https://img.shields.io/packagist/dt/apitte/fullstack.svg?style=flat-square)](https://packagist.org/packages/apitte/fullstack)
@@ -12,9 +10,9 @@
 
 [![Join the chat](https://img.shields.io/gitter/room/apitte/apitte.svg?style=flat-square)](http://bit.ly/apittegitter)
 
-## Install
+## Setup
 
-```
+```bash
 composer require apitte/fullstack
 ```
 
@@ -22,8 +20,8 @@ composer require apitte/fullstack
 
 | State       | Version      | Branch   | PHP      | Composer                                        |
 |-------------|--------------|----------|----------|-------------------------------------------------|
-| development | `^0.5.0`     | `master` | `>= 7.1` | `minimum-stability: dev`, `prefer-stable: true` |
-| stable      | `^0.4.0`     | `master` | `>= 7.1` |                                                 |
+| development | `^0.6.0`     | `master` | `>= 7.1` | `minimum-stability: dev`, `prefer-stable: true` |
+| stable      | `^0.5.0`     | `master` | `>= 7.1` |                                                 |
 | stable      | `^0.3.0`     | `master` | `>= 5.6` |                                                 |
 
 ## Maintainers
@@ -49,10 +47,8 @@ composer require apitte/fullstack
   </tbody>
 </table>
 
------
+## Sponsoring
 
-The development is sponsored by [Tlapnet](http://www.tlapnet.cz) and a lot of coffees. Thank you guys! :+1:
+<a href="https://github.com/tlapnet"><img  width="200" src="https://cdn.rawgit.com/f3l1x/xsource/2463efb7/assets/tlapdev.png"></a>
 
------
-
-Thank you for testing, reporting and contributing.
+The development is sponsored by [Tlapnet](https://www.tlapnet.cz)
