@@ -1,7 +1,7 @@
 language: php
 php:
-    - 7.1
     - 7.2
+    - 7.3
 
 before_install:
   # turn off XDebug
@@ -17,17 +17,10 @@ script:
 
 jobs:
   include:
-    - env: title="Lowest Dependencies 7.1"
-      php: 7.1
-      install:
-        - travis_retry composer update --no-progress --prefer-dist --prefer-lowest
-      script:
-        - echo "OK"
-
-    - env: title="Lowest Dependencies 7.2"
+    - env: title="Lowest Dependencies"
       php: 7.2
       install:
-        - travis_retry composer update --no-progress --prefer-dist --prefer-lowest
+        - travis_retry composer update --no-progress --prefer-dist --prefer-lowest --prefer-stable
       script:
         - echo "OK"
 
