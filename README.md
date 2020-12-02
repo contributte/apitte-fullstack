@@ -1,18 +1,47 @@
-# Apitte Fullstack
+![Apitte Fullstack](https://heatbadger.now.sh/github/readme/apitte/fullstack/)
 
-Apitte meta package with all features.
+<p align=center>
+  <a href="https://github.com/apitte/fullstack/actions">
+    <img src="https://badgen.net/github/checks/apitte/fullstack/master?cache=300">
+  </a>
+  <a href="https://coveralls.io/r/apitte/fullstack">
+    <img src="https://badgen.net/coveralls/c/github/apitte/fullstack?cache=300">
+  </a>
+  <a href="https://packagist.org/packages/apitte/fullstack">
+    <img src="https://badgen.net/packagist/dm/apitte/fullstack">
+  </a>
+  <a href="https://packagist.org/packages/apitte/fullstack">
+    <img src="https://badgen.net/packagist/v/apitte/fullstack">
+  </a>
+</p>
+<p align=center>
+  <a href="https://packagist.org/packages/apitte/fullstack">
+    <img src="https://badgen.net/packagist/php/apitte/fullstack">
+  </a>
+  <a href="https://github.com/apitte/fullstack">
+    <img src="https://badgen.net/github/license/apitte/fullstack">
+  </a>
+  <a href="http://bit.ly/apittegitter">
+    <img src="https://badgen.net/badge/chat/apitte/cyan">
+  </a>
+  <a href="https://bit.ly/cttfo">
+    <img src="https://badgen.net/badge/support/forum/yellow">
+  </a>
+  <a href="https://contributte.org/partners.html">
+    <img src="https://badgen.net/badge/become/a%20patron/F96854">
+  </a>
+<p>
 
-[![Downloads this Month](https://img.shields.io/packagist/dm/apitte/fullstack.svg?style=flat-square)](https://packagist.org/packages/apitte/fullstack)
-[![Downloads total](https://img.shields.io/packagist/dt/apitte/fullstack.svg?style=flat-square)](https://packagist.org/packages/apitte/fullstack)
-[![Latest stable](https://img.shields.io/packagist/v/apitte/fullstack.svg?style=flat-square)](https://packagist.org/packages/apitte/fullstack)
+<p align=center>
+Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
+</p>
 
-## Discussion / Help
 
-[![Join the chat](https://img.shields.io/gitter/room/apitte/apitte.svg?style=flat-square)](http://bit.ly/apittegitter)
+## Usage
 
-## Setup
+To install the latest version of `apitte/fullstack` use [Composer](https://getcomposer.com).
 
-```bash
+```
 composer require apitte/fullstack
 ```
 
@@ -20,36 +49,26 @@ composer require apitte/fullstack
 
 | State       | Version | Branch   | Nette | PHP     |
 |-------------|---------|----------|-------|---------|
-| dev         | `^0.7`  | `master` | 3.0+  | `^7.2`  |
+| dev         | `^0.8`  | `master` | 3.0+  | `>=7.2` |
+| stable      | `^0.7`  | `master` | 3.0+  | `>=7.2` |
 | stable      | `^0.6`  | `master` | 3.0+  | `^7.2`  |
 | stable      | `^0.5`  | `master` | 2.4   | `>=7.1` |
 | stable      | `^0.3`  | `master` | 2.4   | `>=5.6` |
 
-## Maintainers
+## Development
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/f3l1x">
-            <img width="150" height="150" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=150">
-        </a>
-        </br>
-        <a href="https://github.com/f3l1x">Milan Felix Šulc</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/mabar">
-            <img width="150" height="150" src="https://avatars0.githubusercontent.com/u/20974277?s=400&v=4">
-        </a>
-        </br>
-        <a href="https://github.com/mabar">Marek Bartoš</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+See [how to contribute](https://contributte.org/contributing.html) to this package.
+
+This package is currently maintaining by these authors.
+
+<a href="https://github.com/f3l1x">
+  <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
+</a>
 
 ## Sponsoring
 
-<a href="https://github.com/tlapnet"><img  width="200" src="https://cdn.rawgit.com/f3l1x/xsource/2463efb7/assets/tlapdev.png"></a>
+<a href="https://github.com/tlapnet">
+  <img width="80" height="80" src="https://avatars1.githubusercontent.com/u/22914186?s=80&v=4">
+</a>
 
 The development is sponsored by [Tlapnet](https://www.tlapnet.cz)

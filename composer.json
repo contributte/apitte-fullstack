@@ -12,7 +12,7 @@
     }
   ],
   "require": {
-    "php": "^7.2",
+    "php": ">=7.2",
     "apitte/core": "^0.7.0",
     "apitte/middlewares": "^0.7.0",
     "apitte/negotiation": "^0.7.0",
@@ -23,7 +23,7 @@
   "prefer-stable": true,
   "extra": {
     "branch-alias": {
-      "dev-master": "0.7.x-dev"
+      "dev-master": "0.8.x-dev"
     }
   }
 }
