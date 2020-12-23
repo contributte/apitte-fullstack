@@ -1,41 +1,22 @@
-![Apitte Fullstack](https://heatbadger.now.sh/github/readme/apitte/fullstack/)
+![](https://heatbadger.now.sh/github/readme/apitte/fullstack/)
 
 <p align=center>
-  <a href="https://github.com/apitte/fullstack/actions">
-    <img src="https://badgen.net/github/checks/apitte/fullstack/master?cache=300">
-  </a>
-  <a href="https://coveralls.io/r/apitte/fullstack">
-    <img src="https://badgen.net/coveralls/c/github/apitte/fullstack?cache=300">
-  </a>
-  <a href="https://packagist.org/packages/apitte/fullstack">
-    <img src="https://badgen.net/packagist/dm/apitte/fullstack">
-  </a>
-  <a href="https://packagist.org/packages/apitte/fullstack">
-    <img src="https://badgen.net/packagist/v/apitte/fullstack">
-  </a>
+  <a href="https://github.com/apitte/fullstack/actions"><img src="https://badgen.net/github/checks/apitte/fullstack/master?cache=300"></a>
+  <a href="https://coveralls.io/r/apitte/fullstack"> <img src="https://badgen.net/coveralls/c/github/apitte/fullstack?cache=300"> </a>
+  <a href="https://packagist.org/packages/apitte/fullstack"> <img src="https://badgen.net/packagist/dm/apitte/fullstack"> </a>
+  <a href="https://packagist.org/packages/apitte/fullstack"> <img src="https://badgen.net/packagist/v/apitte/fullstack"> </a>
 </p>
 <p align=center>
-  <a href="https://packagist.org/packages/apitte/fullstack">
-    <img src="https://badgen.net/packagist/php/apitte/fullstack">
-  </a>
-  <a href="https://github.com/apitte/fullstack">
-    <img src="https://badgen.net/github/license/apitte/fullstack">
-  </a>
-  <a href="http://bit.ly/apittegitter">
-    <img src="https://badgen.net/badge/chat/apitte/cyan">
-  </a>
-  <a href="https://bit.ly/cttfo">
-    <img src="https://badgen.net/badge/support/forum/yellow">
-  </a>
-  <a href="https://contributte.org/partners.html">
-    <img src="https://badgen.net/badge/become/a%20patron/F96854">
-  </a>
+  <a href="https://packagist.org/packages/apitte/fullstack"><img src="https://badgen.net/packagist/php/apitte/fullstack"></a>
+  <a href="https://github.com/apitte/fullstack"><img src="https://badgen.net/github/license/apitte/fullstack"></a>
+  <a href="https://bit.ly/ctteg"><img src="https://badgen.net/badge/support/gitter/cyan"></a>
+  <a href="https://bit.ly/cttfo"><img src="https://badgen.net/badge/support/forum/yellow"></a>
+  <a href="https://contributte.org/partners.html"><img src="https://badgen.net/badge/become/a%20patron/F96854"></a>
 <p>
 
 <p align=center>
-Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
+Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
 </p>
-
 
 ## Usage
 
