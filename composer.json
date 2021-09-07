@@ -20,10 +20,5 @@
     "apitte/openapi": "^0.8.0"
   },
   "minimum-stability": "dev",
-  "prefer-stable": true,
-  "extra": {
-    "branch-alias": {
-      "dev-master": "0.8.x-dev"
-    }
-  }
+  "prefer-stable": true
 }
