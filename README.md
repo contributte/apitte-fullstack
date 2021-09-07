@@ -1,4 +1,4 @@
-![](https://heatbadger.now.sh/github/readme/apitte/fullstack/)
+![](https://heatbadger.now.sh/github/readme/contributte/apitte-fullstack/)
 
 <p align=center>
   <a href="https://github.com/apitte/fullstack/actions"><img src="https://badgen.net/github/checks/apitte/fullstack/master?cache=300"></a>
@@ -8,7 +8,7 @@
 </p>
 <p align=center>
   <a href="https://packagist.org/packages/apitte/fullstack"><img src="https://badgen.net/packagist/php/apitte/fullstack"></a>
-  <a href="https://github.com/apitte/fullstack"><img src="https://badgen.net/github/license/apitte/fullstack"></a>
+  <a href="https://github.com/contributte/apitte-fullstack"><img src="https://badgen.net/github/license/contributte/apitte-fullstack"></a>
   <a href="https://bit.ly/ctteg"><img src="https://badgen.net/badge/support/gitter/cyan"></a>
   <a href="https://bit.ly/cttfo"><img src="https://badgen.net/badge/support/forum/yellow"></a>
   <a href="https://contributte.org/partners.html"><img src="https://badgen.net/badge/become/a%20patron/F96854"></a>
